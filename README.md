@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Ritesh Gupta <br>I am currently learning React typescript and Blockchain Technology 
+Hi 👋 I'm Ritesh Gupta <br>I am currently learning React, typescript and Blockchain Technology.
 
 
 ## 🌐 Socials:
