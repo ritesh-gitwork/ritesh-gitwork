@@ -49,14 +49,14 @@ Welcome to my GitHub! I'm a passionate developer who enjoys working on full-stac
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rit-gup"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:riteshmca.321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/ritesh14_sol"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ## ☕ Support Me
 <p align="center">
-  <a href="https://buymeacoffee.com/YOUR_HANDLE"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" /></a>
+  <a href="https://coff.ee/ritgup"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" /></a>
 </p>
 
 <!-- FOOTER -->
